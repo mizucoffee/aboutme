@@ -15,7 +15,7 @@
 
 ## Internship
 
-- 2019-* : Life is Tech ! Mentor (Engineer / Sub Director / Curriculum Team)
+- 2019-* : Life is Tech ! Mentor (Engineer / Sub Director / Curriculum Team / Cameraman)
 
 ## Awards
 
