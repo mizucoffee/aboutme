@@ -19,8 +19,9 @@
 
 ## Awards
 
-- Semifinalist  at [アプリ甲子園2015](https://twitter.com/applikoshien/status/650525989961756672/photo/1) (Project: 集まれ!)
-- JPHACKS Innovator at [JPHACKS 2020](https://jphacks.com/2020/result/innovator/) (Project: aika / Team ID: D_2011 / Backend)
+- Semifinalist  at [アプリ甲子園2015](https://twitter.com/applikoshien/status/650525989961756672/photo/1) ( Project: 集まれ! )
+- JPHACKS Innovator at [JPHACKS 2020](https://jphacks.com/2020/result/innovator/) ( Project: aika / Team ID: D_2011 / Backend Engineer)
+- 優秀賞 at [SPAJAM 2021 第三回予選](https://www.spajam.jp/result/) ( Project: Inside Class / Team: ギャルぴょん / Backend Engineer )
 
 ## Works
 
